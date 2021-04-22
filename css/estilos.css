@@ -10,7 +10,7 @@ html {
     scroll-behavior: smooth;
 }
 
-. header{
+.header{
     position: relative;
     display: flex;
     flex-direction: column;
