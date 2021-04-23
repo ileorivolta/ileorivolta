@@ -17,8 +17,33 @@ html {
     justify-content: center;
     width: 100%;
     min-width: 320px;
-    height: 334px;
+    height: 100px;
     text-align: center;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    font-size: 1.6rem;
+    color: white;
 }
+
+.header span {
+    font-size: 1.2rem;
+}
+
+.info-container {
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    width: 100%;
+    padding: 5px;
+}
+
+.info-container h1 {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.info-container p {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
 
